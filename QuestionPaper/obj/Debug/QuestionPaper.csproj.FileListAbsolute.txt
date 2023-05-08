@@ -1,0 +1,19 @@
+D:\Projects\C- Sharp\QuestionPaper\QuestionPaper\bin\Debug\QuestionPaper.exe
+D:\Projects\C- Sharp\QuestionPaper\QuestionPaper\bin\Debug\QuestionPaper.pdb
+D:\Projects\C- Sharp\QuestionPaper\QuestionPaper\obj\Debug\ResolveAssemblyReference.cache
+D:\Projects\C- Sharp\QuestionPaper\QuestionPaper\obj\Debug\QuestionPaper.Form1.resources
+D:\Projects\C- Sharp\QuestionPaper\QuestionPaper\obj\Debug\QuestionPaper.Properties.Resources.resources
+D:\Projects\C- Sharp\QuestionPaper\QuestionPaper\obj\Debug\QuestionPaper.csproj.GenerateResource.Cache
+D:\Projects\C- Sharp\QuestionPaper\QuestionPaper\obj\Debug\QuestionPaper.exe
+D:\Projects\C- Sharp\QuestionPaper\QuestionPaper\obj\Debug\QuestionPaper.pdb
+D:\Projects\C- Sharp\QuestionPaper\QuestionPaper\obj\Debug\QuestionPaper.Dashboard.resources
+D:\Projects\C- Sharp\QuestionPaper\QuestionPaper\obj\Debug\QuestionPaper.addstudent.resources
+D:\Projects\C- Sharp\QuestionPaper\QuestionPaper\obj\Debug\QuestionPaper.Admitslip.resources
+D:\Projects\C- Sharp\QuestionPaper\QuestionPaper\obj\Debug\QuestionPaper.Questionpaper.resources
+D:\Projects\C- Sharp\QuestionPaper\QuestionPaper\bin\Debug\Record.mdf
+D:\Projects\C- Sharp\QuestionPaper\QuestionPaper\bin\Debug\Record_log.ldf
+D:\Projects\C- Sharp\QuestionPaper\QuestionPaper\bin\Debug\QuestionPaper.exe.config
+D:\Projects\C- Sharp\QuestionPaper\QuestionPaper\obj\Debug\QuestionPaper.Forgetpassword.resources
+I:\FYPS\Razzaq\QuestionPaper\QuestionPaper\bin\Debug\QuestionPaper.exe.config
+I:\FYPS\Razzaq\QuestionPaper\QuestionPaper\obj\Debug\QuestionPaper.exe
+I:\FYPS\Razzaq\QuestionPaper\QuestionPaper\obj\Debug\QuestionPaper.pdb
